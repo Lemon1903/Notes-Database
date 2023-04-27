@@ -1,16 +1,12 @@
 {
-  "posts":[
+  "notes": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "title": "Sample Note",
+      "content": "Hello! Welcome to my Notes App!",
+      "isFavorite": true,
+      "bgcolor": "#FAF29D",
+      "updated": "2023-04-26T21:49:14.251Z",
+      "id": 1
     }
   ]
 }
